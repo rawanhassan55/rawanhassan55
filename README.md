@@ -12,7 +12,7 @@
 </p> 
 
 - 🌱 I'm Mobile App Developer | Native Android (Kotlin) & Cross-Platform Flutter 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about anything
 - ⚡ Fun Fact: I'm a human-computer hybird.My brain is 10% neurons,90% code.
 
